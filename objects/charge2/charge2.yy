@@ -1,28 +1,18 @@
 {
-    "id": "1434c570-9845-4696-9a25-e1a544835a56",
+    "id": "87a22e80-4371-49c8-9dcf-1d32e334dde0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "charge2",
     "eventList": [
         {
-            "id": "f4411f0b-bd02-439b-8c36-d33a7f660c2e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "1434c570-9845-4696-9a25-e1a544835a56"
-        },
-        {
-            "id": "3ffbbea8-9a16-4d0e-96c5-2fe5cf83da48",
+            "id": "0a3834e9-da79-4f57-8861-4ed388fbdae5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "1434c570-9845-4696-9a25-e1a544835a56"
+            "m_owner": "87a22e80-4371-49c8-9dcf-1d32e334dde0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d2d8d21b-f684-4d0f-a60d-54f9d9cf53ba",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
